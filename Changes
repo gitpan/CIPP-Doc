@@ -1,7 +1,10 @@
-$VERSION = "2.11";
-__END__
+$Id: Changes,v 1.6 2001/03/07 17:00:38 joern Exp $
 
 Revision history for CIPP documentation:
+
+2.28  Wed Mar 07 2001
+	- sorry, a long time without an update ;) This version
+	  now covers CIPP 2.28.
 
 2.11  Thu Sep 30 1999
 	- now the whole documentation is in English. Thanks to

@@ -4,5 +4,9 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 WriteMakefile(
     'NAME'	=> 'CIPP::Doc',
-    'VERSION_FROM' => 'Changes', # finds $VERSION
+    'VERSION_FROM' => 'Doc.pm', # finds $VERSION
+    'dist' => {
+        COMPRESS => "gzip",
+        SUFFIX => "gz"
+    }
 );
