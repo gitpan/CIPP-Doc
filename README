@@ -1,0 +1,48 @@
+CIPP - CgI Perl Preprocessor by Joern Reder
+
+Copyright (c) 1997-1999 dimedis GmbH, Germany
+
+This documentation ist free; you can redistribute it and/or
+modify it under the same terms as Perl itself.
+
+
+WHAT IS CIPP?
+
+	Download CIPP from CPAN or http://spirit.dimedis.de/ and
+	read its README ;)
+
+WHY THIS EXTRA PACKAGE FOR DOCUMENTATION?
+
+	This CIPP language reference manual is an extra package
+	because the format is PDF and the uncompressed file has more
+	than 500kb. Also not every modification of CIPP leads to
+	modification of this documentation.
+
+CONVERED CIPP VERSION
+
+	This documentation covers CIPP up to version 1.90.
+	$VERSION="1.90"
+
+THIS IS FREE, BUT WHERE ARE THE SOURCES?
+
+	The original Framemaker sources for this PDF file can
+	be retrieved from the spirit Webserver
+	
+		http://spirit.dimedis.de/
+	
+	This site will be online March 1999.
+
+BUG REPORTING
+
+	Please send any bug reports or comments to
+	
+		cipp-bug@dimedis.de
+	
+	or use the bug report formular on the spirit website
+	
+		http://spirit.dimedis.de/
+
+		(this site will start March 1999)
+
+	You can speak german with us, but we understand english, too ;)
+
