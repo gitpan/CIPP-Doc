@@ -1,48 +1,38 @@
-CIPP - CgI Perl Preprocessor by Joern Reder
+NAME
+    CIPP::Doc - CgI Perl Preprocessor Documentation
 
-Copyright (c) 1997-1999 dimedis GmbH, Germany
+DESCRIPTION
+    CIPP is a Perl module for translating CIPP sources to pure
+    Perl programs. CIPP defines a HTML embedding language also
+    called CIPP which has powerful features for CGI and database
+    developers.
 
-This documentation ist free; you can redistribute it and/or
-modify it under the same terms as Perl itself.
+    Many standard CGI and database operations (and much more)
+    are covered by CIPP, so the developer does not need to code
+    them again and again.
 
+WHY CIPP::Doc?
+    This is a extra package, because the format of the documentation
+    is PDF and the uncompressed file has more than 500kb. Also not
+    every modification of CIPP leads to modification of the
+    documentation.
 
-WHAT IS CIPP?
-
-	Download CIPP from CPAN or http://spirit.dimedis.de/ and
-	read its README ;)
-
-WHY THIS EXTRA PACKAGE FOR DOCUMENTATION?
-
-	This CIPP language reference manual is an extra package
-	because the format is PDF and the uncompressed file has more
-	than 500kb. Also not every modification of CIPP leads to
-	modification of this documentation.
-
-CONVERED CIPP VERSION
-
-	This documentation covers CIPP up to version 1.90.
-	$VERSION="1.90"
-
-THIS IS FREE, BUT WHERE ARE THE SOURCES?
-
-	The original Framemaker sources for this PDF file can
-	be retrieved from the spirit Webserver
-	
-		http://spirit.dimedis.de/
-	
-	This site will be online March 1999.
+    The CIPP::Manual module is part of the CIPP distribution. It is
+    the POD version of the CIPP Reference chapter.
 
 BUG REPORTING
+    Please send any bug reports or comments to
+    
+        cipp@dimedis.de
 
-	Please send any bug reports or comments to
-	
-		cipp-bug@dimedis.de
-	
-	or use the bug report formular on the spirit website
-	
-		http://spirit.dimedis.de/
+AUTHOR
+    Joern Reder <joern@dimedis.de>
 
-		(this site will start March 1999)
+COPYRIGHT
+    Copyright (C) 1999 by Joern Reder and
+    dimedis GmbH, 50170 Koeln, Germany
 
-	You can speak german with us, but we understand english, too ;)
+    All Rights Reserved.
 
+    This documantation is free; you can redistribute it and/or
+    modify it under the same terms as Perl itself.
